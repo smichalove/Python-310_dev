@@ -1,0 +1,5 @@
+1,Steven Michalove,15,Google,sm@google.com,None,Python for beginners,Database development with Python,Advanced Python for application developers
+2,john foe,15,Microsoft,jd@Microsoft.com,None,Python for beginners,Database development with Python,Advanced Python for application developers
+3,John Smith,15,Facebook,john@fb.com,No Shell Fish,Python for beginners,Python for data science
+4,fred,15,na,jjk@perfect.com,No Gluten,Python for beginners,Database development with Python,Python for data science,Advanced Python for application developers
+5,Peter Tosh,15,Wag.com,pt@wag.com,Vegan,Python for beginners,Database development with Python,Advanced Python for application developers
