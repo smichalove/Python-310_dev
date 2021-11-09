@@ -1,0 +1,13 @@
+1,40,Conf ID,True
+2,1,Called,False
+3,3,Email,False
+4,4,Phone Number,False
+1,2,Employer,False
+6,5,Address,False
+7,15,Food Peference,False
+8,8,Allergies,False
+9,9,9,False
+10,10,Have you attended before,False
+11,11,Can you Pay?,False
+12,12,When will you pay?,False
+14,14,42?,True

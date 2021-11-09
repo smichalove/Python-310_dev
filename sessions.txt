@@ -1,0 +1,4 @@
+Python for beginners
+Database development with Python
+Python for data science
+Advanced Python for application developers
